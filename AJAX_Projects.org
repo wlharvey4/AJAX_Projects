@@ -3,8 +3,8 @@
 #+title:Thirty AJAX Projects
 #+subtitle:{{{version}}} {{{date}}}
 #+author:wlh4
-#+date:2021-01-26 18:57
-#+macro:version Version 0.0.0
+#+date:2021-01-27 07:38
+#+macro:version Version 0.0.2
 #+macro:upload-date (eval (current-time-string))
 #+bucket:pinecone-forest.com
 
@@ -13,10 +13,541 @@
 #+texinfo:@insertcopying
 
 
-* Introduction
+* Introduction to this Course
 :PROPERTIES:
 :unnumbered: t
 :END:
+Thirty  Fun mini  projects  to explore  using JavaScript  to  connect to  APIs,
+retrieve JSON data, and use it within your web page.
+
+- 107 lectures
+- 21.5 lecture hours
+- Intermediate level
+
+** Course Description
+One of the *MOST common questions* I get is using *AJAX* making requests to the
+server and returning  *JSON data* outputting it  to a web Page. Here  it is THE
+MOST asked for course  content with over 30 Projects to  build your skills with
+*AJAX* and *JavaScript  DOM* manipulation. This is a unique  course loaded with
+modern  JavaScript content  - coding  examples and  challenges in  almost every
+lesson!!! Also includes a 100+ Page PDF AJAX JavaScript Guide.
+
+Perfect to do over  30 days or faster. Fun unique projects  that will AMAZE you
+and  help you  learn updating  skills  with AJAX.  Explore how  YOU can  create
+Dynamic and Interactive Web content with data loaded from an API.
+
+*Please  note  this  is  a  fast   paced  course  with  prerequisites*  ---  it
+demonstrates how to use and apply JavaScript to connect with various endpoints,
+make requests  and return JSON  formatted data demonstrated in  interactive fun
+projects. *Prior  coding experience is  required* as lessons focus  on applying
+necessary  JavaScript functions  to  create interactions  and dynamic  content.
+There  will be  a focus  on DOM  based coding  and use  of JSON  and JavaScript
+Objects.
+
+*AJAX* allows you to communicate with  the server, exchange data and update the
+page without having to refresh the page.
+
+The two major features of AJAX allow you to do the following:
+
+- Make requests to the server *without reloading the page*
+
+- Receive and work with data from the server
+
+Course is loaded with 30 Projects to  help you learn and practice connecting to
+endpoints, returning  JSON data,  making fetch requests,  using JSON  data with
+JavaScript  to create  Page  content, explore  GET POST  PUT  and DELETE  (CRUD
+create, read,  update, and delete  are the  four basic functions  of persistent
+storage) with JavaScript AJAX.
+
+*Select, create manipulate page elements with Modern JavaScript code* --- /make
+things  happen/.  *Create Interactive*  and  *fully  dynamic web*  applications
+driven by  *JSON data*. Get user  selections, make the *AJAX  request* from the
+user select and output to the web page using JavaScript Code.
+
+Explore how  to make *fun  interactive projects*  to make AJAX  requests coming
+from  page data  and output  the  content to  the page.  Dynamic Page  elements
+generated  from AJAX  requests to  endpoints and  return JSON  data and  use it
+within JavaScript to update and manipulate DOM page elements. Create Games, Get
+JSON data  and let users  explore the  data. Dynamically generate  page content
+with JavaScript.
+
+*Connect to web endpoints* --- get JSON  data and output that content into your
+web page with JavaScript.
+
+*AJAX practice mini projects*  to help you learn more about  JSON data - making
+fetch requests - debugging and more.
+
+*Source Code is  included* --- mini projects are designed  to help practice and
+learn more about AJAX  and how you can use it to create  content and update web
+pages.
+
+Take your web content  to the next level --- *Bring your  WEB Page to LIFE!!!!*
+Allow your users to interact with—the new information via JavaScript seamlessly
+displaying the updated content.
+
+*Massive JavaScript  AJAX Course*  --- with  *30 customized  learning projects*
+ready  to help  you learn  and expand  your portfolio.  If you  want to  create
+DYNAMIC and INTERACTIVE web pages this is the course for YOU!!!
+
+Create asynchronous web applications --- On the client side retrieves data from
+the server  in the  background NO  PAGE reloads -  just modern  interactive web
+content.
+
+Ajax allows  web pages and web  applications to change the  content dynamically
+without reloading the entire page.
+
+*Modern JavaScript coding* using fetch for *GET POST PUT and DELETE* methods. See
+it in  action, try  it out for  yourself. Ajax  is not a  new technology,  or a
+different language, just existing technologies used  in new ways.It is a set of
+web  development   techniques  working  together   to  create  a   smooth  user
+experience - interacting with server JSON data.
+
+This  course will  demonstrate  how  to incorporate  it  into  your projects  -
+creating games, getting Google Sheet data, getting server JSON data via an API.
+Loaded with testing apps  to get the most out of AJAX.  Taught by an instructor
+with over 20 years of real world experience ready to help you learn and explore
+AJAX - This  is a unique course  with content you will not  find anywhere else.
+Join Today Code Now.
+
+*Taught by an instructor with over 20 years of Web Development experience ready
+to help you learn more about JavaScript.*
+
+** The Thirty Course Projects
+
+1. Create  a dynamic  list  JSON  LocalStorage List  -  project  #1 Create  an
+  interactive List that gets JSON data from  a json file and generates a list.
+  Using  JavaScript  create  page  elements,  add  event  listeners  for  user
+  interactive content. Store  JSON data as a string to  local storage and load
+  JSON list  as a JavaScript  Object on Page load.  Create a dynamic  list for
+  users to add and remove list items, check list items off as completed.
+
+2. Create AJAX  to Simple JSON file  and get JSON with JavaScript  - project #2
+   Practice coding  creates AJAX requests to  local JSON files -  Create a JSON
+   file valid JSON to  JavaScript Object. Load local JSON file  data and use it
+   with JavaScript to  create page content. Add user event  listener to trigger
+   AJAX request using JavaScript Fetch method.
+
+3. AJAX to get JSON data from Wiki API - project #3 Using JavaScript Connect to
+   an API endpoint  get Wiki Data and update JavaScript  create and update Page
+   content  with  JSON data.  JSON  data  from  wikipedia  API -  using  modern
+   javascript fetch make a request to  the wikipedia endpoint - return response
+   JSON. Custom request parameters from user input field. Generate page content
+   using JavaScript DOM.
+
+4. JSON from WikiMap API examples with JavaScript Code - project #4 Explore how
+   to connect  to WikiMap API  to get JSON data  to update and  manipulate page
+   contents using JavaScript. Coding example  of practice project to learn more
+   and explore more about connecting to APIs and how to use JavaScript Fetch to
+   get JSON data and output to the web pages.
+
+5. Multiple Endpoint  Loading JSON data Tester - project  #5 Explore connecting
+   to various JSON endpoints - test  JSON data to Page content with JavaScript.
+   Using interactive JavaScript  web pages to select and make  AJAX requests to
+   various endpoints and outputting the JSON data as content to web pages.
+
+6. Generate  Random User Data Output  to Page AJAX and  JS Random User API  5 -
+   project #6 Create an interactive Dynamic application that connects to random
+   user  API  generates  pages  content  depending  on  user  selection.  Fully
+   interactive web application using AJAX  requests from user page selections -
+   get  JSON data  and output  to yoru  web pages  with JavaScript  Code. Fetch
+   request  methods -  use of  interactive coding  to API  and customizing  the
+   request parameters and request URL from HTML input fields on the webpage.
+
+7. Weather Data App with API JSON data - project #7 Connecting to a weather API
+   to output data with user input values. Create custom query requests to get
+   back JSON data to use on your webpage. AJAX to weather endpoint with page
+   element creation using JavaScript.
+
+8. Jokes  API get fun Jokes  for Web Page Content  - project #8 Connect  to the
+   Chuck Norris  open Joke API -  get Jokes -  Get Category list -  return joke
+   data  from  user selected  categories  and  more. User  interactive  Dynamic
+   content with JavaScript AJAX requests.
+
+9. Interactive App with Star Wars Data  - project #9 Create a fully interactive
+   web  application that  dynamically loads  Star Wars  data from  an Open  API
+   source. Return JSON data and output  the data object with JavaScript to your
+   webpage.
+
+10. Dynamic Data  driven Trivia  DataBase Game  - project  #10 Create  a fully
+   functional Trivia game, track game progress, let the user select the number
+   of questions, difficulty and category. Load  the data from a JSON endpoint.
+   Output page contents from JSON data. Users can interact and make selections
+   and JavaScript makes the AJAX requests to load requested data for the user.
+   Game functions adding  gameplay with scoring and ability  to play unlimited
+   rounds of Trivia Questions all dynamically loaded with AJAX.
+
+11. Stackexchange API tester Request JSON - project #11 Massive API loaded with
+    data  and request  URL -  perfect to  practice and  get more  familiar with
+    complex JSON data - multiple routes  for request URLs and loading JSON data
+    to web  pages with JavaScript  Coding. Explore how  you can connect  to the
+    Stackexchange API and  Request JSON Data to test and  build interactive web
+    applications that are  data driven and fully dynamic  with JavaScript Code.
+    This API has  a lot of data  and great to familiarize  yourself with making
+    AJAX requests  with fetch method  in JavaScript,  Getting JSON data  to use
+    within JavaScript  Code, Create your  own JavaScript code examples  of AJAX
+    requests and using JavaSCript to create interactive web page content.
+
+12. Select Country Data from API -  project #12 Connect to a countries API that
+    lists  over  250 countries  with  a  complex  JSON  object rich  with  data
+    including objects and image paths and arrays. Chunk page data into multiple
+    pages allowing the user to select and interact with JSON data content.
+
+13. User Search  Country by  Name  get JSON  data  - project  #13 Dynamic  and
+   interactive  page  content  with  JavaScript   -  loading  JSON  data  into
+   JavaScript coding objects and outputting  and creating page element content
+   with JavaScript DOM.
+
+14. Introduction to JavaScript Quiz Game Project - project #14 Create a fully
+    interactive quiz game using JavaScript with JSON data from server endpoint.
+    Connect to an API - return back response data to generate the quiz game
+    using the values from the data. Build interactive content track progress
+    randomize question options. Use JavaScript DOM manipulation to select,
+    create and update page elements. Check correct answers, score the player,
+    build the gameplay loading dynamically from the JSON data. Load the content
+    from a Google Sheet - create the full gameplay which can customize the
+    questions and create the JavaScript game progress all using the JSON data.
+    Output the game progress report to the player as a downloadable text file.u
+
+15. Creating a  Joke Generating Web page  from JSON data -  project #15 Explore
+    how to connect to  an api with limited requests per hour.  Build the app in
+    less than 10  requests. Get JSON data - output  as JavaScript object create
+    page content from data.
+
+16. Project multiple  endpoints for JSON data user selected  content. - project
+    #16 Using an array data of  items, connect to different endpoints, allowing
+    the user to select the content they want to load. Dynamically create a user
+    interaction list of urls and allow user to interact and output the selected
+    content.
+
+17. Project connecting to the Github API loading JSON data - project #17 Create
+    a  dynamic interactive  web user  interface connecting  to Github  data and
+    allowing the user to load selected content. Page content is interactive and
+    content is driven from JSON data provided by the GitHub API.
+
+18. Generate interactive Game with Dynamic  Wordlist - project #18 Loading game
+    data dynamically  from a Google Sheet.  How to share Google  Sheet data for
+    web applications. Create a word Scramble  game from scratch that loads word
+    lists from shared  Google Sheet docs. Create  a word list -  load the sheet
+    data  into your  JavaScript application  to generate  Scramble Words  Game.
+    Loading game  data dynamically  from a  Google Sheet.  How to  share Google
+    Sheet data  for web  applications. Complete  review of  JavaScript Scramble
+    Game  with  full  dynamic  gameplay coming  from  a  dynamically  generated
+    wordlist  which is  requested via  AJAX  and returned  as JSON  to the  web
+    application.
+
+19. Quiz Game  with JavaScript and AJAX -  project #19 Explore how to  set up a
+    quiz game  which is  flexible and dynamically  generated content  from JSON
+    data. Connect to  an API load JSON  data and output with  JavaScript to the
+    DOM web page. Creating an interactive web game with dynamically loaded AJAX
+    content. JavaScript Game  Project with data driven dynamically  from an API
+    endpoint.  Using JavaScript  creates the  web application  making it  fully
+    dynamic and  adjustable with  content. Explore  how to set  up a  quiz game
+    which is flexible and dynamically generated content from JSON data. Connect
+    to an API  load JSON data and  output with JavaScript to the  DOM web page.
+    Creating an interactive web game with dynamically loaded AJAX content.
+
+20. YouTube Search API  with JavaScript Connect to API -  project #20 Setup and
+    connect  to the  YouTube  api to  search  and get  YouTube  Data into  your
+    webpage. Dynamically create your webpage  from JSON content coming from the
+    YouTube API. Create interactive clickable  content that loads from the user
+    selection  data.  Use  JavaScript  to create  a  fully  functional  YouTube
+    interactive web application.
+
+21. Frontend API  Tester connecting  to Endpoints  - project  #21 How  to make
+   JavaScript fetch requests and return JSON data from various endpoints. Test
+   and  make interactive  content  that  is data  driven  from  JSON data  and
+   dynamically   generate  the   page  content   with  JavaScript.   DOM  page
+   manipulation with JavaScript Coding.
+
+22. Get and POST Tester API JSON JavaScript - project #22 Using user input data
+    select content from API. Send data to the server with AJAX using JavaScript
+    fetch both  with GET and POST  methods. Handle response JSON  data from the
+    server endpoint - output and generate response to the user. Get input field
+    and form  data to practice sending  requests to testing endpoint  which can
+    handle both  POST and GET  methods returning the  simulated data as  a JSON
+    object.
+
+23. Form  Submission with JavaScript  fetch JSON data  - project #23  Create an
+    HTML form - submit  the form input contents with AJAX  to the server. Using
+    formData create JSON from contents and  send to the endpoint. Simulate form
+    submissions with  JavaScript and AJAX  using GET and POST  methods. Provide
+    user detailed response and page content output from submission.
+
+24. JSON placeholder  tester JSON  JavaScript -  project #24  JSON placeholder
+   testing sending data to test server and retrieving response object as JSON.
+   Output JSON response to the web  page with JavaScript. JavaScript DOM setup
+   and manipulate  page elements outputs content  dynamically using JavaScript
+   DOM element manipulation. Great mini  JavaScript and AJAX coding project to
+   explore JSON and API sending fetch requests to a placeholder testing API.
+
+25. Dynamic  Content interactive CRUD tester  Part 1 - project  #25 Select JSON
+    data and  output to the  page. Create  user interaction options  to create,
+    read,  update,  and delete  (CRUD)  server  side  data within  the  testing
+    environment. Select item  by id value from server return  to page. List all
+    available posts from server output to  page. Allow users to select items by
+    id and update  the content, create JSON  objects to send to  the server and
+    using PUT  method add to  server data. Create  new items for  the database.
+    Delete post item by id with user selection. Update and customize output for
+    user from  JSON data.  Using JavaScript DOM  manipulation update  and build
+    dashboard of dynamic content coming from the testing Server data.
+
+26. GitHub  json database  custom JSON  endpoint - project  #26 Connect  to the
+    Massive GitHub API - create user search apply generating customized request
+    URL with JavaScript Code. Use JavaScript  to make the AJAX request for JSON
+    data. Output and  update page elements with Data from  the server. Show and
+    display JSON  data values from  GitHub API. Explore connecting  and testing
+    making  requests  to eh  server  output  contents  to  the web  pages  with
+    JavaScript DOM coding.  Web page development and dynamic  web page content.
+    Interactive and  user selected  JavaScript created  content driven  by JSON
+    data from the API.
+
+27. Setup  JSON Local Server  with Node  NPM - project  #27 Step by  step guide
+    setup your own  local testing server. Practice JavaScript  AJAX requests to
+    local data.  Create your own  JSON data -return  data locally from  json db
+    file.  Perfect  for testing  and  exploring  making  requests to  your  own
+    customized JSON data endpoint.
+
+28. Connect  to Local  Server Get and  Post Requests with  Fetch -  project #28
+    Practice connecting  to JSON data locally.  Setup your own JSON  data using
+    JavaScript to connect to the local JSON  data and output it to your testing
+    dev  app. Javascript  local web  developer environment  setup and  practice
+    environment. Get JSON data use JavaScript to update page elements. Practice
+    connecting and  making POST and GET  requests to local JSON  server using a
+    json.db file  located locally. Create  page elements with  JavaScript using
+    Data returned from JSON data object.
+
+29. Connect  to Local  Server Put  and Delete Requests  with Fetch  project #29
+    Practice connecting and making PUT and DELETE requests to local JSON server
+    using a json.db file located  locally. Create page elements with JavaScript
+    using Data  returned from  JSON data object.  Update Manipulate  JSON local
+    data simulating Database requests to the backend code.
+
+30. JavaScript  AJAX web contact form  sending Emails with Apps  Script project
+    #30 How  to send an  email from client side  code AJAX Contact  form submit
+    data  to Google  Sheet  and Send  emails from  Google  Apps Script  MailApp
+    Service.  Create your  own custom  fully functional  web contact  form that
+    sends  emails, tracks  form  content  into a  spreadsheet.  Setup your  own
+    endpoint using Google Apps Script and  creating a fully functional web app.
+    Send POST  request from  your web  page using AJAX  and JavaScript  fetch -
+    create  JSON structure  of web  form data  from inputs.  Get web  page form
+    fields, create JSON object.
+
+** What You Will Learn
+- How to connect to Web APIs make AJAX requests with JavaScript
+- Applying JavaScript to create Data driven Web Content
+- Create Interactive Web Content generated from JSON data
+- JSON data and how to use JSON as JavaScript Objects within Code
+- Creating Dynamic Data driven Web Applications with JavaScript
+- Update parts of a web page, without reloading the whole page
+- Create User-Friendly interactive web applications
+- Boost the performance of your web pages
+- How to create Responsive user interfaces
+- Modern JavaScript Coding to apply and use JSON data within Web Pages
+
+** Course Resources
+*** Resource Guide
+ - [[file:resources/pdf/Course+Guide+AJAX+JavaScript+.pdf][Course Guide AJAX JavaScript]]
+
+*** NPM liveServer
+- https://www.npmjs.com/package/live-server
+
+*** JavaScript Arrays
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+**** JavaScript Array Class
+A *global  object* that  is used  in the  construction of  *arrays*, high-level
+list-like objects.
+
+***** Description
+Arrays are:
+- list-like objects
+- whose prototype has methods to perform
+- traversal and
+- mutation operations.
+
+Both size and elements are mutable. Because an array's length can change at any
+time, and data can be stored at non-contiquous locations, JavaScript arrays are
+not  guaranteed to  be dense.  If  you would  like such,  consider using  typed
+arrays.
+
+Arrays  must   use  integers   as  element   indexes.  JavaScript   arrays  are
+zero-indexed.  Using an invalid index number returns =undefined=.
+
+- Object property collection ::
+
+  Setting  or  accessing  via  non-integers  using  bracket  notation  (or  dot
+  notation) will set  or access a variable associated with  that array's *object
+  property collection*.
+
+  The array's  *object properties* and  list of *array elements*  are separate,
+  and the array's traversal and mutation  operations cannot be applied to these
+  named properties.
+
+***** Array Operations
+- creation :: =let fruits = ['Apple', 'Banana'];=
+  - constructor :: =Array()=
+  - static methods ::
+    - ~Array.from~  :: Creates  a  new  Array instance  from  an array-like  or
+      iterable object.
+    - ~Array.isArray~  ::  Returns true if the  argument is an array,  or false
+      otherwise.
+    - ~Array.of~  ::   Creates a new Array  instance with a variable  number of
+      arguments, regardless of number or type of the arguments.
+- access :: =let first = fruits[0]=
+- looping :: =forEach=
+  #+begin_example
+    fruits.forEach(function(item, index, array) {
+      console.log(item, index)
+  #+end_example
+- *push* an element to end :: =let newLength = fruits.push('Orange')=
+- *pop* an element from end :: =let last = fruits.pop()=
+- *shift* an element from end ::
+    =let first = fruits.shift() // remove Apple from the front=
+- *unshift* an element onto beginning ::
+    =let newLength = fruits.unshift('Strawberry') // add to the front=
+- find an index in the array: ~indexOf~ ::
+  : fruits.push('Mango')
+  : let pos = fruits.indexOf('Banana') // => 1
+- remove an item by index position ::
+  : let removedItem = fruits.splice(pos, 1) // this is how to remove an item
+  : => // ["Strawberry", "Mango"]
+- Remove items from an index position ::
+  : let removedItems = vegetables.splice(pos, n)
+  : // this is how to remove items, n defines the number of items to be removed,
+  : // starting at the index position specified by pos and progressing toward the end of array.
+- Copy an Array ::
+  : let shallowCopy = fruits.slice() // this is how to make a copy
+  : => // ["Strawberry", "Mango"]
+- Array Instance Properties ::
+  - Array.prototype.length :: Reflects the number of elements in an array.
+  - Array.prototype[@@unscopables]  :: A  symbol containing  property names  to
+    exclude from a with binding scope.
+- Array Instance Methods- ::
+  - Array.prototype.at() ::
+  - Array.prototype.concat() ::
+  - Array.prototype.copyWithin() ::
+  - Array.prototype.entries() ::
+  - Array.prototype.every() ::
+  - Array.prototype.fill() ::
+  - Array.prototype.filter() ::
+  - Array.prototype.find() ::
+  - Array.prototype.findIndex() ::
+  - Array.prototype.forEach() ::
+  - Array.prototype.includes() ::
+  - Array.prototype.indexOf() ::
+  - Array.prototype.join() ::
+  - Array.prototype.keys() ::
+  - Array.prototype.lastIndexOf() ::
+  - Array.prototype.map() ::
+  - Array.prototype.pop() ::
+  - Array.prototype.push() ::
+  - Array.prototype.reduce() ::
+  - Array.prototype.reduceRight() ::
+  - Array.prototype.reverse() ::
+  - Array.prototype.shift() ::
+  - Array.prototype.slice() ::
+  - Array.prototype.some() ::
+  - Array.prototype.sort() ::
+  - Array.prototype.splice() ::
+  - Array.prototype.toLocaleString() ::
+  - Array.prototype.toString() ::
+  - Array.prototype.unshift() ::
+  - Array.prototype.values() ::
+  - Array.prototype[@@iterator]() ::
+
+*** JSON Object and Methods
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
+
+JSON  is  a  *syntax*  for /serializing/  objects,  arrays,  numbers,  strings,
+booleans, and null. It is based upon JavaScript syntax but is distinct from it:
+some JavaScript is not JSON.
+
+The JSON object contains methods  for parsing JavaScript Object Notation (JSON)
+and converting values to JSON.
+
+**** Static Methods
+***** JSON.parse
+- ~JSON.parse(text[, revivor])~ ::
+
+  Parse the string =TEXT= as JSON,  optionally transform the produced value and
+  its properties,  and return  the value.  Any violations  of the  JSON syntax,
+  including those  pertaining to the  differences between JavaScript  and JSON,
+  cause a =SyntaxError= to be thrown.
+
+  The =REVIVER= option allows for interpreting  what the =REPLACER= has used to
+  stand in for other datatypes.
+
+***** JSON.stringify
+- ~JSON.stringify(value[, replacer[, space]])~
+
+  Return  a JSON  string  corresponding to  the  specified =VALUE=,  optionally
+  including  only  certain  properties  or   replacing  property  values  in  a
+  user-defined manner.  By default, all  instances of =undefined=  are replaced
+  with  =null=, and  other  unsupported  native data  types  are censored.
+
+  The =REPLACER= option allows for specifying other behavior.
+
+**** JSON Syntax
+#+begin_src javascript
+  JSON = null
+      or true or false
+      or JSONNumber
+      or JSONString
+      or JSONObject
+      or JSONArray
+
+  JSONNumber = - PositiveNumber
+	    or PositiveNumber
+  PositiveNumber = DecimalNumber
+		or DecimalNumber . Digits
+		or DecimalNumber . Digits ExponentPart
+		or DecimalNumber ExponentPart
+  DecimalNumber = 0
+	       or OneToNine Digits
+  ExponentPart = e Exponent
+	      or E Exponent
+  Exponent = Digits
+	  or + Digits
+	  or - Digits
+  Digits = Digit
+	or Digits Digit
+  Digit = 0 through 9
+  OneToNine = 1 through 9
+
+  JSONString = ""
+	    or " StringCharacters "
+  StringCharacters = StringCharacter
+		  or StringCharacters StringCharacter
+  StringCharacter = any character
+		    except " or \ or U+0000 through U+001F
+		 or EscapeSequence
+  EscapeSequence = \" or \/ or \\ or \b or \f or \n or \r or \t
+		or \u HexDigit HexDigit HexDigit HexDigit
+  HexDigit = 0 through 9
+	  or A through F
+	  or a through f
+
+  JSONObject = { }
+	    or { Members }
+  Members = JSONString : JSON
+	 or Members , JSONString : JSON
+
+  JSONArray = [ ]
+	   or [ ArrayElements ]
+  ArrayElements = JSON
+	       or ArrayElements , JSON
+#+end_src
+*** JSONLint
+- https://jsonlint.com
+
+*** JavaScript Fetch API
+- https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+
+*** Local Storage
+- https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+
 * Chapter
 
 * Build Tools
