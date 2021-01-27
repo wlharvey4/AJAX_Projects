@@ -3,8 +3,8 @@
 #+title:Thirty AJAX Projects
 #+subtitle:{{{version}}} {{{date}}}
 #+author:wlh4
-#+date:2021-01-27 07:38
-#+macro:version Version 0.0.2
+#+date:2021-01-27 09:22
+#+macro:version Version 0.0.3
 #+macro:upload-date (eval (current-time-string))
 #+bucket:pinecone-forest.com
 
@@ -348,8 +348,31 @@ to help you learn more about JavaScript.*
 *** Resource Guide
  - [[file:resources/pdf/Course+Guide+AJAX+JavaScript+.pdf][Course Guide AJAX JavaScript]]
 
+*** The Project Folder
+
 *** NPM liveServer
 - https://www.npmjs.com/package/live-server
+
+The following code creates a project directory ~AJAX_Projects~ into which all
+of the projects from this course will be installed.  It installs into that
+project directory Yarn v2, initializes a new project, and then installs as a
+development dependency the ~npm~ package ~liveServer~ from:
+- https://www.npmjs.com/package/live-server
+
+#+CAPTION: Installation of liveServer
+#+NAME: liveServer-install
+#+HEADER: :results silent :exports results
+#+HEADER: :dir AJAX_Projects :mkdirp yes
+#+begin_src shell
+  yarn set version berry
+  yarn init
+  yarn add live-server --dev
+#+end_src
+
+#+RESULTS: liveServer-install
+: yarn init v1.22.10
+: success Saved package.json
+: Done in 0.02s.
 
 *** JavaScript Arrays
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
